@@ -39,7 +39,7 @@
 	<!-- More Project Information -->
 	<name>concrete-cows-parent</name>
 	<description>Maven parent for all concrete-cows Java libraries</description>
-	<url>concretecows.de</url>
+	<url>${scm.url}</url>
 	<inceptionYear>2020</inceptionYear>
 	<licenses>
 		<license>
