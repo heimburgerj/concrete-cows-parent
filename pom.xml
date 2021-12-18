@@ -36,7 +36,7 @@
     <ciManagement></ciManagement>
     <distributionManagement></distributionManagement>
     <properties>
-        <log4j2.version>2.14.0</log4j2.version>
+        <log4j2.version>2.17.0</log4j2.version>
         <junit.version>5.7.0</junit.version>
         <scm.url>https://github.com/heimbugerj/concrete-cows-commons</scm.url>
         <java.version>11</java.version>
